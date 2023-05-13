@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0 ,
+        "name": "Dell",
+        "price": 3000,
+        "description": "lorem ipsium"
+    },
+    {
+        "id": 1,
+        "name": "Hp",
+        "price": 4000,
+        "description": "lorem ipsium"
+    },
+    {
+        "id": 2,
+        "name": "Mac",
+        "price": 6000,
+        "description": "lorem ipsium"
+    },
+    {
+        "id": 3,
+        "name": "Huawei",
+        "price": 5500,
+        "description": "lorem ipsium"
+    }
+
+]
